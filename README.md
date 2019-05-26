@@ -1,5 +1,6 @@
 # Face-recognition-from-real-time-video
 Its simple code to detect the face from the real time video.#college_project#face_detection#real-time-video
+
 cv2 is the library of programming function mainly aimed at real time computer vision.
 CascadeClassifier class to datect objects in video stream.
 Here in above code we have used haarcascade_frontalface_default to detect faces from the video.
